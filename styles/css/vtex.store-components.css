@@ -5,8 +5,9 @@
     color: black;
     border: 2px solid black;
     padding: 24px;
-    font: bold;
+    font-weight: bold;
 }
+
 
 .infoCardCallActionContainer :global(.vtex-button) {
     color: white;
